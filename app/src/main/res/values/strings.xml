@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Droid café</string>
+    <string name="action_settings">Settings</string>
+    <string name="button_text">ALERT</string>
+    <string name="button_send">SEND</string>
+    <string name="textintro">Sobremesas Droid</string>
+    <string name="donuts_s_o_polvilhados_com_doces">Donuts são polvilhados com doces</string>
+    <string name="sandu_ches_de_sorvete_t_m_wafers_de_chocolate_e_recheio_de_baunilha">Sanduíches de sorvete têm wafers de chocolate e recheio de baunilha</string>
+    <string name="froyo_iogurte_congelado_self_service_premium">FroYo é iogurte congelado self-service premium</string>
+
+    <string name="donut_order_message">Voce pediu um donut.</string>
+    <string name="ice_cream_order_message">Voce pediu um sanduiche de sorvete.</string>
+    <string name="froyo_order_message">Voce pediu um FroYo.</string>
+    <string name="order_label_text">Pedido</string>
+    <string name="name_label_text">Nome</string>
+    <string name="name_text_hint">Entre com seu nome</string>
+    <string name="address_label_text">Endereço</string>
+    <string name="enter_address_hint">Entre com seu endereço</string>
+    <string name="telefone">Telefone</string>
+    <string name="entre_com_seu_telefone">Entre com seu telefone</string>
+    <string name="nota">Nota</string>
+    <string name="escolha_um_m_todo_de_entrega">Escolha um método de entrega:</string>
+    <string name="entrega_no_mesmo_dia">Entrega no mesmo dia</string>
+    <string name="entrega_no_dia_seguinte">Entrega no dia seguinte</string>
+    <string name="retirar_na_loja">Retirar na loja</string>
+    <string name="fechar_conta">Fechar conta</string>
+
+    <string-array name="labels_array">
+        <item>Home</item>
+        <item>Work</item>
+        <item>Mobile</item>
+        <item>Other</item>
+    </string-array>
+    <string name="title_activity_price">PriceActivity</string>
+</resources>
